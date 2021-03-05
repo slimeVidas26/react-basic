@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactbasica09abc09": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
